@@ -11,12 +11,14 @@ Se familiarizando com a Unity, conhecendo conceitos, telas, como iniciar um proj
 # Modulo 2
 Atividade Baseada no Conteúdo do modulo2.
 
+Atividades para se acostumar com Objetos em scene, movimentação, importação de um mapa, sistema de iluminação.
 
 
-Acesse o script: [modulo1_Script.cs](Folder/Modulo2/modulo1_Script.cs)
 
 
-![Fluxograma Sinuca](Folder/Modulo2/Modulo2_imagem.png)
+![Fluxograma Sinuca](Folder/Modulo2/Mapa-towe.gif)
+
+
 
 # Modulo 3
 Atividade Baseada no Conteúdo do Modulo3.
