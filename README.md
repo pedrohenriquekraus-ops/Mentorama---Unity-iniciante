@@ -6,7 +6,7 @@ Se familiarizando com a Unity, conhecendo conceitos, telas, como iniciar um proj
 
 
 
-![Fluxograma Sinuca](Folder/Modulo-1/Robo-video.gif)
+![Fluxograma Sinuca](Modulo-1/Robo-video.gif)
 
 # Modulo 2
 Atividade Baseada no Conteúdo do modulo2.
