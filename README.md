@@ -55,7 +55,7 @@ Implementação do jogo desenvolvido no modulo 3-4 agora com interface conectada
 Acesse o script: [TacoScript.cs](Modulo-5/Modulo4.cs)
 
 
-![sinuca movimento bola branca](Modulo-5/Gameplay.gif)
+![sinuca movimento bola branca](Modulo-5/GameplayLegalizada.gif)
 
 
 # Modulo 6
