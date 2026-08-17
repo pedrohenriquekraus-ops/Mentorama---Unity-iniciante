@@ -61,10 +61,9 @@ Acesse o script: [TacoScript.cs](Modulo-5/Modulo4.cs)
 # Modulo 6
 Atividade Baseada no Contéudo do Modulo6
 
+Feito um script que carrega scenes através de inputs, seta pra cima carrega 1 scene, pra baixo retira a ultima.
 
-| Enum | Struct|Troca de camera|
-|---|---|---|
- ![Enum](Folder/Modulo6/Enum.png) | ![Struct](Folder/Modulo6/Struct.png)| ![Troca de camera](Folder/Modulo6/Sinuca-reset.gif)|
+![Troca de camera](Modulo-6/Scene.gif)|
 # Modulo 7
 Atividade Baseada no Contéudo do Modulo7
 
