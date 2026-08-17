@@ -52,11 +52,10 @@ Implementação do jogo desenvolvido no modulo 3-4 agora com interface conectada
 
 
 
-Acesse o script: [TacoScript.cs](Folder/Modulo5/List_Array.cs)
-| Array | List_Array|
-|---|---|
+Acesse o script: [TacoScript.cs](Modulo-5/Modulo4.cs)
 
-![sinuca movimento bola branca](Folder/Modulo5/Funcoes_List_Array_Modulo5.png)| ![sinuca movimento bola branca](Folder/Modulo5/List_Array_Modulo5.png)|
+
+![sinuca movimento bola branca](Modulo-5/Gameplay.gif)
 
 
 # Modulo 6
