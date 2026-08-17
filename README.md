@@ -30,7 +30,7 @@ Implementação de um jogo base de interação com o console, aonde o objetivo �
 Acesse o script: [TacoScript.cs](Modulo-3/Modulo3.cs)
 
 
-![sinuca movimento bola branca](Modulo-3/Jogo_da_vida.png)
+![sinuca movimento bola branca](Modulo-3/Jogo_da_vida_legalizado.png)
 
 
 # Modulo 4
