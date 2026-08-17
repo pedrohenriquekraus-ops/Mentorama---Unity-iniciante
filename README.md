@@ -25,21 +25,20 @@ Atividade Baseada no Conteúdo do Modulo3.
 
 
 
-modelagem básica de uma mesa de sinuca.
+Implementação de um jogo base de interação com o console, aonde o objetivo é atingir uma meta utilizando os meio necessários e oferecidos.
 
-Acesse o script: [TacoScript.cs](Folder/Modulo3/TacoScript.cs)
+Acesse o script: [TacoScript.cs](Modulo-3/Modulo3.cs)
 
 
-![sinuca movimento bola branca](Folder/Modulo3/GIF_modulo3.gif)
+![sinuca movimento bola branca](Modulo-3/Jogo_da_vida.png)
 
 
 # Modulo 4
 
 Atividade Baseada no Conteúdo do Modulo4.
 
-Continuação do Script do modulo passado porem com a adição de Loops, Destroy e Instantiate, para o reposicionamento do jogo e criação de efeitos especiais, além de um caso a parte do uso de Dictionary.
+Implementação de um jogo base de interação com o console, aonde o objetivo é atingir uma meta utilizando os meio necessários e oferecidos.
 
-Implementação de uma nova câmera no cenário.
 
 Acesse o script: [TacoScript.cs](Folder/Modulo4/TacoScript.cs)
 
