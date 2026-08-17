@@ -67,12 +67,12 @@ Feito um script que carrega scenes através de inputs, seta pra cima carrega 1 s
 # Modulo 7
 Atividade Baseada no Contéudo do Modulo7
 
+Atividade pensando em aplicar fica, Busquei um tutorial de como fazer uma corna na Unity, aonde encontro um video no qual ensina as formulas e logicas envolvidas, e então apliquei na Unity.
 
-|Classe Equipe| Utilização da classe|funcoes_equipe|
-|---|---|---|
- ![Classe Equipe](Folder/Modulo7/Classe_equipe.png) | ![Utilização da classe](Folder/Modulo7/Usando_classe.png)| ![funcoes_equipe](Folder/Modulo7/funcoes_equipe.png)|
 
-  Acesse o script Equipe: [Equipe.cs](Folder/Modulo8/Equipe.cs)
+![funcoes_equipe](Modulo-7/Corda.gif)|
+
+  Acesse o script Equipe: [Equipe.cs](Modulo-7/VerletSimulador.cs)
 
 
 # Modulo 8
