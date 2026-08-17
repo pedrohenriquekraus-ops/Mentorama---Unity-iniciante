@@ -37,20 +37,20 @@ Acesse o script: [TacoScript.cs](Modulo-3/Modulo3.cs)
 
 Atividade Baseada no Conteúdo do Modulo4.
 
-Implementação de um jogo base de interação com o console, aonde o objetivo é atingir uma meta utilizando os meio necessários e oferecidos.
+Implementação de uma interface para o jogo criado no mudulo passado, utilizando o canvas para a criação do mesmo.
 
-
-Acesse o script: [TacoScript.cs](Folder/Modulo4/TacoScript.cs)
-
-
-![sinuca movimento bola branca](Folder/Modulo4/Modulo4.gif)
+![sinuca movimento bola branca](Modulo-4/Tela_jogo.png)
 
 # Modulo 5
 
 Atividade Baseada no Conteúdo do Modulo5.
 
+Implementação do jogo desenvolvido no modulo 3-4 agora com interface conectada entre eles, e algumas melhorias, conectando eventos de click, atualizando textos.
 
-Implementação de uma nova câmera no cenário.
+
+
+
+
 
 Acesse o script: [TacoScript.cs](Folder/Modulo5/List_Array.cs)
 | Array | List_Array|
