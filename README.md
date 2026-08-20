@@ -90,7 +90,7 @@ Atividade baseada do Conteudo do modulo9
 atividade foi alem do modulo, com estudo sobre Rig,IK e Tree States, alem da criação de uma animação Simples que roda atraves de um evento.
 
 
-![anima](Modulo-9/67.gif)
+![anima](Modulo-9/67.MP4)
 
 
 
