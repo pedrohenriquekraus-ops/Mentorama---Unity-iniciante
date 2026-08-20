@@ -87,6 +87,10 @@ Continuação do Script e implementação de 3 classes
 # Modulo 9
 Atividade baseada do Conteudo do modulo9
 
+atividade foi alem do modulo, com estudo sobre Rig,IK e Tree States, alem da criação de uma animação Simples que roda atraves de um evento.
+
+
+![anima](Modulo-9/ParticipanteM8.png)
 
 
 | InvokeM9 | TelaView| Tela_mudandoM9 |
