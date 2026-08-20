@@ -78,10 +78,6 @@ Atividade pensando em aplicar fica, Busquei um tutorial de como fazer uma corna 
 # Modulo 8
 Atividade Baseada no Contéudo do Modulo8
 
-Continuação do Script e implementação de 3 classes
-
-|---|---|---|
- ![Enum](Folder/Modulo8/DuplasM8.png) | ![Enum](Folder/Modulo8/SoloM8.png)| ![Enum](Folder/Modulo8/ParticipanteM8.png)|
 
 
 # Modulo 9
@@ -90,14 +86,11 @@ Atividade baseada do Conteudo do modulo9
 atividade foi alem do modulo, com estudo sobre Rig,IK e Tree States, alem da criação de uma animação Simples que roda atraves de um evento.
 
 
-![anima](Modulo-9/ParticipanteM8.png)
+![anima](Modulo-9/67.gif)
 
 
-| InvokeM9 | TelaView| Tela_mudandoM9 |
-|---|---|---|
- ![InvokeM9](Folder/Modulo9/InvokeM9.png) | ![TelaView](Folder/Modulo9/TelaView.png)| ![TelaView](Folder/Modulo9/Tela_mudandoM9.gif)|
 
- Acesse o script Participantes: [TelaView.cs](Folder/Modulo9/TelaView.cs)
+
 
 # Modulo 10
 Atividades baseada no Conteudo do modulo10
